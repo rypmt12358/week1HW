@@ -1,3 +1,0 @@
-http://localhost:8080/meal?name=beef
-http://localhost:8080/total
-http://localhost:8080/order/1
